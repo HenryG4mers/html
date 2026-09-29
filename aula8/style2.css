@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color: #fae9d6;
+    font-family: "Comic Sans MS", sans-serif;
+    margin: 10px auto;
+    padding: 10px auto;
+}
+header {
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: #fcefef;
+    padding: 10px;
+    text-align: center;
+    width: 700px;
+    margin: 20px auto;
+}
+header h1 {
+    color: #6f4e37;
+    margin: 0;
+    padding: 10px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+}
+header p {
+    color: #6f4e37;
+    margin: 0;
+    padding: 5px;
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+}
+ section {
+    border: 1px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    color:#332b25;
+    width: 1000px;
+    margin: 20px auto;
+ }
+ nav a {
+    
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #eeaeae;
+    padding: 5px;
+    font-family: "Comic Sans MS", sans-serif;
+    color:#070707;
+    margin: 20px;
+ }
