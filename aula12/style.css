@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(192, 229, 243);
+}
+
+h1{
+    borderstyle: solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(146, 215, 235);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+iframe{
+    borderstyle: solid;
+    border-radius: 10px;
+    text-align: left;
+}
+
+main{
+    borderstyle: solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(146, 215, 235);
+    font-family: 'Arial';
+}
