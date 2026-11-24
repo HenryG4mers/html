@@ -350,7 +350,7 @@ background: linear-gradient(to bottom, rgba(7, 18, 29, 0.9), rgba(29, 64, 99, 0.
   }
 
   .cabecalho-logo img {
-    width: 160px;
+    width: auto;
     margin-top: 46px;
   }
 
@@ -376,16 +376,9 @@ background: linear-gradient(to bottom, rgba(7, 18, 29, 0.9), rgba(29, 64, 99, 0.
     flex-direction: column;
   }
 
-  .cortes {
+  .jogatinas {
     flex-direction: column;
-  }
-
-  .corte img {
-    max-width: 740px;
-  }
-
-  .botao-whatsapp img {
-    max-width: 64px;
+    
   }
 }
 
@@ -394,4 +387,12 @@ background: linear-gradient(to bottom, rgba(7, 18, 29, 0.9), rgba(29, 64, 99, 0.
   .destaque h1 {
     font-size: 24px;
   }
+  .cabecalho-botao {
+    display: none;
+  }
+  .cabecalho-logo img {
+    width: 85%;
+    max-width: 240px;
+  }
+
 }
